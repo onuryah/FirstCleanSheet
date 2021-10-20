@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     @IBAction func ChangeButtonClicked(_ sender: Any) {
         
         imageView.image = UIImage(named: "2387101_810x458")
+        print("hey")
         
     }
     
